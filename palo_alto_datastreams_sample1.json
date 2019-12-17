@@ -1,0 +1,114 @@
+{
+  "result": {
+    "fLength": 5,
+    "fType": "ARRAY",
+    "fTimestamp": 1484596390133,
+    "fArray": [
+      {
+        "fStr": "",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "Commodity  Rate",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "Monthly Service Charges",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "Effective Date",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "5/8-inch Meter",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "3-inch  Meter",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "per ccf",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "per meter per month",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "7/1/09",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "$4.946",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "$50.00",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "$125.00",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "7/1/12",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "$5.750",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "$50.00",
+        "fType": "TEXT"
+      },
+      {
+        "fStr": "$125.00",
+        "fType": "TEXT"
+      }
+    ],
+    "fRows": 5,
+    "fCols": 4
+  },
+  "status": 3,
+  "description": "Source: City of Palo Alto Utilities",
+  "parameters": [],
+  "tags": [
+    "palo alto",
+    "utilities",
+    "fire hydrants",
+    "water services"
+  ],
+  "timestamp": null,
+  "created_at": "2015-08-26T15:49:36Z",
+  "title": "W-2 Water Service From Fire Hydrants - Palo Alto",
+  "modified_at": "2016-01-26T16:37:39Z",
+  "category_id": 32413,
+  "methods": null,
+  "sources": [],
+  "total_revisions": 5,
+  "frequency": "",
+  "link": null,
+  "user": "mtsao",
+  "status_str": null,
+  "guid": "WATER-SERVI-FROM-FIRE-HYDRA",
+  "category_name": "Utilities"
+}
